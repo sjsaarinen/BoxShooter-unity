@@ -1,1 +1,2 @@
-# Box Shooter game - MSU Introduction to Game Development Coursera course. Made with Unity
+# Box Shooter
+Game project for MSU Introduction to Game Development Coursera course. Made with Unity
