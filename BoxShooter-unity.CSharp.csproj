@@ -69,7 +69,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\BasicMover.cs" />
+    <Compile Include="Assets\Scripts\BasicController.cs" />
+    <Compile Include="Assets\Scripts\BasicTargetMover.cs" />
     <Compile Include="Assets\Scripts\Controller.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\MouseLooker.cs" />
